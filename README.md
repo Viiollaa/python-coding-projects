@@ -8,8 +8,8 @@ Here are some of the technical projects I have developed:
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Sudoku Solver](sudoku-solver/)** | A recursive backtracking algorithm to solve 4x4 Sudoku puzzles efficiently. | Python |
-| **[Next Project Name](folder-name/)** | *Coming soon: [Brief description of what you are working on next]* | Python/JS |
+| **[Sudoku Solver](sudoku-solver/)** | A high-performance recursive backtracking engine that solves 4x4 constraints, featuring automated cell validation and board state management. | Python |
+| **[Guess & Match Solver](match-solver/)** | A logical inference engine designed to crack hidden combinations using Bulls-and-Cows logic. It employs backtracking and constraint pruning to search through vast character spaces efficiently. | Python |
 
 ## My Coding Philosophy
 I believe that code should be more than just functional; it should be clean, logical, and well-documented. In this repo, I aim to:
